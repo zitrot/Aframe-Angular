@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Angular10-AFRAME"
+    }
+  },
+  "defaultProject": "Angular10-AFRAME",
+  "cli": {
+    "analytics": "7c69ea6b-ee35-4aea-8196-3d2833853587"
+  }
 }
